@@ -1,6 +1,6 @@
 # CameraShake
 
-![alt text](https://github.com/ForlornU/Images/blob/main/CAMERA SHAKE.png)
+![alt text](https://github.com/ForlornU/Images/blob/main/CamShakeThumbnail.png)
 
 A camera-shake script for unity3d
 
