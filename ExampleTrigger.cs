@@ -1,6 +1,12 @@
 using UnityEngine;
 
-public class Trigger : MonoBehaviour
+/* This script will attempt to trigger a camera shake on the CameraShaker.cs class
+* It finds the main camera in the scene and calls the Shake() method on it when you press the 'W' key
+* It is based on proximity, the closer it is to the camera the more it will shake
+* Not intended to be used as is, but requires modification from you the user, this is just an example
+*/
+
+public class ExampleTrigger : MonoBehaviour
 {
     #region members
     ParticleSystem particles;
